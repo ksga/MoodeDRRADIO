@@ -1,8 +1,8 @@
-http://live-icy.gss.dr.dk/A/A03H.mp3.m3u 	DR P1
-http://live-icy.gss.dr.dk/A/A04H.mp3.m3u	DR P2
-http://live-icy.gss.dr.dk/A/A05H.mp3.m3u	DR P3
-http://live-icy.gss.dr.dk/A/A08H.mp3.m3u	DR P4 København
-http://live-icy.gss.dr.dk/A/A25H.mp3.m3u	DR P5
-http://live-icy.gss.dr.dk/A/A29H.mp3.m3u	DR P6 BEAT
-http://live-icy.gss.dr.dk/A/A21H.mp3.m3u	DR P7 MIX
-http://live-icy.gss.dr.dk/A/A22H.mp3.m3u	DR P8 JAZZ
+http://live-icy.gss.dr.dk/A/A03H.mp3	DR P1
+http://live-icy.gss.dr.dk/A/A04H.mp3	DR P2
+http://live-icy.gss.dr.dk/A/A05H.mp3	DR P3
+http://live-icy.gss.dr.dk/A/A08H.mp3	DR P4 København
+http://live-icy.gss.dr.dk/A/A25H.mp3	DR P5
+http://live-icy.gss.dr.dk/A/A29H.mp3	DR P6 BEAT
+http://live-icy.gss.dr.dk/A/A21H.mp3	DR P7 MIX
+http://live-icy.gss.dr.dk/A/A22H.mp3	DR P8 JAZZ
